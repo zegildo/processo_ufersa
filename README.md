@@ -71,7 +71,7 @@ Perceba que a data que entrei em exercício foi **1 de abril de 2020**. Antes di
 
 # [05/05/2020 - UFERSA ABRE PROCESSO SOBRE RESTITUIÇÃO AO ERÁRIO](https://github.com/zegildo/processo_ufersa/blob/master/5-Maio-2020-AberturaDeProcesso/AberturaDeProcesso_ReposicaoAoErario23091.003998_2020-11.pdf)
 - Perceba que mesmo depois de eu ter comprovado que trabalhei em Março e argumentado, ainda assim, a ufersa abriu o processo de restituição do mês que trabalhei;
-- Perceba também que o processo foi aberto às 18:06h do dia 05/05/2020 com menos de 24h da portaria de retroação. **ENTRETANTO, MEU PROCESSO DE PROBATÓRIO AINDA ESTÁ PARADO DESDE 7 DE FEVEREIRO. - Por quê?**
+- Perceba também que o processo foi aberto às 18:06h do dia 05/05/2020 com menos de 24h após ter me dado ciência da portaria de retroação. **ENTRETANTO, MEU PROCESSO DE PROBATÓRIO AINDA ESTÁ PARADO DESDE 7 DE FEVEREIRO. - Por quê?**
 
 # Após ter chegado até aqui, você ainda acredita que tudo isso foi um grande mal entendido?
 
