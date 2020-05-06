@@ -45,7 +45,7 @@ Perceba que:
 Perceba que a UFERSA responde ao presidente do CADE de forma cínica culpando o MEC.
 
 ## [10/02/2020 - UFERSA se nega a emitir portaria e solicita que o MEC o faça](https://github.com/zegildo/processo_ufersa/blob/master/10-Fevereiro-UFERSA-solicita-portaria-MEC/Of%C3%ADcio%20n.%C2%BA%20050-2020-GR-UFERSA.pdf)
-Perceba que covardemente a 
+Perceba que covardemente só agora a UFERSA reconhece a irrecusabilidade do pedido.
 
 Perceba que a universidade envia novamente o processo para o MEC.
 - **Por quê?**
