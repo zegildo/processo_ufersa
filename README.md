@@ -60,7 +60,7 @@ Perceba que a portaria foi emitida de modo a perder a sua validade em 30 dias. O
 ## [01/04/2020 - Entro em exercício](https://github.com/zegildo/processo_ufersa/blob/master/1-Abril-2020-Entro-em-Exerc%C3%ADcio/SEI_CADE%20-%200737946%20-%20Termo.pdf)
 Perceba que a data que entrei em exercício foi **1 de abril de 2020**. Antes disso eu estava trabalhando para a UFERSA (e também depois).
 
-#[04/05/2020 - UFERSA EMITE PORTARIA QUE RETROAGE PARA O MÊS TRABALHADO](https://github.com/zegildo/processo_ufersa/blob/master/4-Maio-2020-Retroa%C3%A7%C3%A3o-da-DE-para-Mar%C3%A7o/Port_293.pdf)
+# [04/05/2020 - UFERSA EMITE PORTARIA QUE RETROAGE PARA O MÊS TRABALHADO](https://github.com/zegildo/processo_ufersa/blob/master/4-Maio-2020-Retroa%C3%A7%C3%A3o-da-DE-para-Mar%C3%A7o/Port_293.pdf)
 
 - Perceba que a portaria retroage para 4 de Março. **Mas por que se eu trabalhei normalmente em março?**
 - Participei da reunião do DCETI em 11 de Março [vejam a lista de assinaturas](https://github.com/zegildo/processo_ufersa/blob/master/11-Mar%C3%A7o-2020-ListaDeFrequencia/Frequ%C3%AAncia%20da%20Assembleia%2011.03.2020.pdf);
@@ -69,7 +69,7 @@ Perceba que a data que entrei em exercício foi **1 de abril de 2020**. Antes di
 
 
 
-#[05/05/2020 - UFERSA ABRE PROCESSO SOBRE RESTITUIÇÃO AO ERÁRIO](https://github.com/zegildo/processo_ufersa/blob/master/5-Maio-2020-AberturaDeProcesso/AberturaDeProcesso_ReposicaoAoErario23091.003998_2020-11.pdf)
+# [05/05/2020 - UFERSA ABRE PROCESSO SOBRE RESTITUIÇÃO AO ERÁRIO](https://github.com/zegildo/processo_ufersa/blob/master/5-Maio-2020-AberturaDeProcesso/AberturaDeProcesso_ReposicaoAoErario23091.003998_2020-11.pdf)
 - Perceba que mesmo depois de eu ter comprovado que trabalhei em Março e argumentado, ainda assim, a ufersa abriu o processo de restituição do mês que trabalhei;
 - Perceba também que o processo foi aberto às 18:06h do dia 05/05/2020 com menos de 24h da portaria de retroação. **ENTRETANTO, MEU PROCESSO DE PROBATÓRIO AINDA ESTÁ PARADO DESDE 7 DE FEVEREIRO. - Por quê?**
 
