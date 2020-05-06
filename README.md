@@ -20,7 +20,7 @@ Veja que logo no segundo parágrafo o Ministério da Justiça informa que:
 Perceba que:
 
 - Solicitaram a opinião de várias instâncias: direção do campus (que emite parecer desfavorável), PROGEPE, procuradoria (que entende que o pedido é irrecusável e pede entende a retirada da DE), e outras tantas. Mas veja que o pedido é de **requisição**, onde não há necessidade de concordância. **Por que então fizeram isso?**;
-- Concluem que devo perder a minha dedicação exclusiva (veja página 15);
+- Concluem que devo perder a minha dedicação exclusiva (veja página 15). Aqui comento de que nenhum dos demais colegas professores também foram requisitados e que atuamente trabalham comigo no Departamento de Estudos Econômicos perderam quaisquer vencimentos;
 - Não satisfeitos, e mesmo diante da confirmação da procuradoria de que o pedido é irrecusável (veja página 13) ao invés de emitirem a portaria, **enviam o processo para o MEC**. 
 - **Por que enviaram o processo para o MEC mesmo após o parecer da procuradoria?**
 - **Por que simplesmente não emitiram a portaria se já tinham o parecer da perda da dedicação exclusiva?**
@@ -35,4 +35,7 @@ Perceba que:
 - **Será que uma autarquia do Ministério da Justiça após realização de processo seletivo, aguardar pacientemente todos os meses de arrasto do processo não estaria convicta da requisição?**
 
 
+## [27/01/2020 - CADE reitera pedido de Requisição](https://github.com/zegildo/processo_ufersa/blob/master/27-Janeiro-2020-CADE-reitera-pedido-de-Requisi%C3%A7%C3%A3o/SEI_CADE%20-%200710993%20-%20Jose%20Gildo.pdf)
+- Perceba que desta vez, no parágrafo 9 o CADE ressalta que *"a omissão ou descumprimento do Decreto 9.144/2017 acarretará na adoção por este Conselho das ações cabíveis"*
 
+- **Por que nos expor a este ridículo? Eu sou o funcionário cujo o órgão de origem é problemático, não entende o pedido de requisição e cria dificuldades desnecessárias para a administração.**
