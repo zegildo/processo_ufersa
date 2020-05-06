@@ -43,7 +43,14 @@ Perceba que:
 
 ## [10/02/2020 - UFERSA culpa o MEC pela não emissão da portaria](https://github.com/zegildo/processo_ufersa/blob/master/10-Fevereiro-UFERSA-culpa-o-MEC/Oficio%20n%C2%BA%2035-2020%20(Requisi%C3%A7%C3%A3o%20Jos%C3%A9%20Gildo).pdf)
 
-## [10/02/2020 - UFERSA se nega a emitir portaria e solicita que o MEC o faça](https://github.com/zegildo/processo_ufersa/blob/master/10-Fevereiro-UFERSA-reconhece-que-o-pedido-%C3%A9-uma-Requisi%C3%A7%C3%A3o/Of%C3%ADcio%20n.%C2%BA%20050-2020-GR-UFERSA.pdf)
+## [10/02/2020 - UFERSA se nega a emitir portaria e solicita que o MEC o faça](https://github.com/zegildo/processo_ufersa/blob/master/10-Fevereiro-UFERSA-solicita-portaria-MEC/Of%C3%ADcio%20n.%C2%BA%20050-2020-GR-UFERSA.pdf)
+
+Perceba que a universidade envia novamente o processo para o MEC.
+- **Por quê?**
 
 ## [19/02/2020 - MEC percebe a má vontade da UFERSA](https://github.com/zegildo/processo_ufersa/blob/master/10-Fevereiro-UFERSA-reconhece-que-o-pedido-%C3%A9-uma-Requisi%C3%A7%C3%A3o/Of%C3%ADcio%20n.%C2%BA%20050-2020-GR-UFERSA.pdf)
 Perceba que o MEC diz explicitamente: **NÃO HAVIA NECESSIDADE!**
+
+
+
+
