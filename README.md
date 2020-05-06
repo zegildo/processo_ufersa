@@ -1,7 +1,7 @@
 # Cronologia do Processo
 
 
-## [26 Setembro de 2019 - CADE emiti Requisição](https://github.com/zegildo/processo_ufersa/blob/master/26-Setembro-2019-Requisicao/Oficio%20-%20requisic%CC%A7a%CC%83o%20CADE.pdf)
+## [26/09/2019 - CADE emiti Requisição](https://github.com/zegildo/processo_ufersa/blob/master/26-Setembro-2019-Requisicao/Oficio%20-%20requisic%CC%A7a%CC%83o%20CADE.pdf)
 
 Veja que logo no segundo parágrafo o Ministério da Justiça informa que: 
 - 1) Ao servidor requisitado são assegurados todos os direitos a que façam jus no orgão ou entidade de origem; 
@@ -14,8 +14,7 @@ Veja que logo no segundo parágrafo o Ministério da Justiça informa que:
 - **Será que em nenhum momento os nosso representantes, as pessoas em quem confiamos não compreenderam o teor do documento?**
 - **Ou há algo a mais?**
 
-## 9 de Outubro de 2019
-Inicia-se o processo de número errado 23091.012564/2019-(77 ou 37) [veja aqui](https://github.com/zegildo/processo_ufersa/blob/master/9-Outubro-2019-Processo/PROC%20ADM%20JOS%C3%89%20GILDO.%20REQUISI%C3%87%C3%83O.%20CADE.pdf).
+## [9/10/2019 - Inicia-se o processo de número errado 23091.012564/2019-(77 ou 37)](https://github.com/zegildo/processo_ufersa/blob/master/9-Outubro-2019-Processo/PROC%20ADM%20JOS%C3%89%20GILDO.%20REQUISI%C3%87%C3%83O.%20CADE.pdf).
 
 
 Perceba que:
