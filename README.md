@@ -57,6 +57,16 @@ Perceba que o MEC percebe a má vontade da UFERSA e diz explicitamente: **NÃO H
 
 Perceba que a portaria foi emitida de modo a perder a sua validade em 30 dias. Ou seja, em caso de eu não entrar em exercício eu continuaria sendo funcionário da UFERSA SEM NENHUMA ALTERAÇÃO DA MINHA SITUAÇÃO LABORAL.
 
+## [01/04/2020 - Entro em exercício](https://github.com/zegildo/processo_ufersa/blob/master/1-Abril-2020-Entro-em-Exerc%C3%ADcio/SEI_CADE%20-%200737946%20-%20Termo.pdf)
+Perceba que a data que entrei em exercício foi **1 de abril de 2020**. Antes disso eu estava trabalhando para a UFERSA (e também depois).
+
+#[04/05/2020 - UFERSA EMITE PORTARIA QUE RETROAGE PARA O MÊS TRABALHADO](https://github.com/zegildo/processo_ufersa/blob/master/4-Maio-2020-Retroa%C3%A7%C3%A3o-da-DE-para-Mar%C3%A7o/Port_293.pdf)
+
+- Perceba que a portaria retroage para 4 de Março. **Mas por que se eu trabalhei normalmente em março?**
+- Participei da reunião do DCETI (vejam a lista de assinaturas);
+- Conclui um curso de formação (vejam o certificado);
+- [Perceba que ainda em 3 de Abril a ufersa publica uma matéria COM MEU NOME comentando sobre a minha participação em projeto](https://assecom.ufersa.edu.br/2020/04/03/ufersa-e-prefeitura-de-mossoro-firmam-parceria-que-possibilita-monitoramento-de-vacina-em-ubs/) 
+
 
 
 
