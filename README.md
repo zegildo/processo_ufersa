@@ -1,8 +1,7 @@
 # Cronologia do Processo
 
 
-## 26 Setembro de 2019
-É emitido o pedido de requisição por parte do cade [veja aqui](https://github.com/zegildo/processo_ufersa/blob/master/26-Setembro-2019-Requisicao/Oficio%20-%20requisic%CC%A7a%CC%83o%20CADE.pdf). 
+## [26 Setembro de 2019 - CADE emiti Requisição](https://github.com/zegildo/processo_ufersa/blob/master/26-Setembro-2019-Requisicao/Oficio%20-%20requisic%CC%A7a%CC%83o%20CADE.pdf)
 
 Veja que logo no segundo parágrafo o Ministério da Justiça informa que: 
 - 1) Ao servidor requisitado são assegurados todos os direitos a que façam jus no orgão ou entidade de origem; 
