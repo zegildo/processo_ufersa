@@ -63,7 +63,7 @@ Perceba que a data que entrei em exercício foi **1 de abril de 2020**. Antes di
 #[04/05/2020 - UFERSA EMITE PORTARIA QUE RETROAGE PARA O MÊS TRABALHADO](https://github.com/zegildo/processo_ufersa/blob/master/4-Maio-2020-Retroa%C3%A7%C3%A3o-da-DE-para-Mar%C3%A7o/Port_293.pdf)
 
 - Perceba que a portaria retroage para 4 de Março. **Mas por que se eu trabalhei normalmente em março?**
-- Participei da reunião do DCETI em 11 de Março (vejam a lista de assinaturas)[https://github.com/zegildo/processo_ufersa/blob/master/11-Mar%C3%A7o-2020-ListaDeFrequencia/Frequ%C3%AAncia%20da%20Assembleia%2011.03.2020.pdf];
+- Participei da reunião do DCETI em 11 de Março [vejam a lista de assinaturas](https://github.com/zegildo/processo_ufersa/blob/master/11-Mar%C3%A7o-2020-ListaDeFrequencia/Frequ%C3%AAncia%20da%20Assembleia%2011.03.2020.pdf);
 - Conclui um curso de formação em março [vejam o certificado](https://github.com/zegildo/processo_ufersa/blob/master/2-Mar%C3%A7o-Certificado-Curso/CERTIFICADO_PROEC_124559.pdf);
 - Perceba que ainda em **3 de Abril** a ufersa publica uma matéria COM MEU NOME comentando sobre a minha participação em projeto[aqui](https://assecom.ufersa.edu.br/2020/04/03/ufersa-e-prefeitura-de-mossoro-firmam-parceria-que-possibilita-monitoramento-de-vacina-em-ubs/) e [aqui](https://assecom.ufersa.edu.br/2020/04/23/ufersa-entrega-face-shields-para-secretaria-de-saude-de-angicos-e-hospital-de-afonso-bezerra-e-campus-recebe-autorizacao-para-producao-de-alcool-gel-e-liquido/). Utiliza o termo: *"o professor do campus Angicos da Ufersa, José Gildo Araújo"*. Ora, a UFERSA deve se decidir se sou ou não professor do campus Angicos, e sendo professor, então por que não teria direito ao meu salário?
 
