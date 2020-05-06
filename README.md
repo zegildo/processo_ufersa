@@ -50,7 +50,7 @@ Perceba que covardemente só agora a UFERSA reconhece a irrecusabilidade do pedi
 Perceba que a universidade envia novamente o processo para o MEC.
 - **Por quê?**
 
-## [19/02/2020 - MEC percebe a má vontade da UFERSA](https://github.com/zegildo/processo_ufersa/blob/master/10-Fevereiro-UFERSA-reconhece-que-o-pedido-%C3%A9-uma-Requisi%C3%A7%C3%A3o/Of%C3%ADcio%20n.%C2%BA%20050-2020-GR-UFERSA.pdf)
+## [19/02/2020 - MEC percebe a má vontade da UFERSA](https://github.com/zegildo/processo_ufersa/blob/master/19-Fevereiro-2020-MEC-repreende-UFERSA/E-mail-UFERSA-ENC_%20Resposta_MEC_2_requisicao.pdf)
 Perceba que o MEC percebe a má vontade da UFERSA e diz explicitamente: **NÃO HAVIA NECESSIDADE DO PROCESSO SER REENVIADO PARA LÁ UMA VEZ QUE JÁ ERA DE CONHECIMENTO DE TODOS O QUE DEVERIA SER FEITO!**
 
 ## [04/03/2020 - UFERSA EMITE PORTARIA](https://github.com/zegildo/processo_ufersa/blob/master/4-Mar%C3%A7o-2020-UFERSA-emite-portaria/Portaria%20n%C2%BA%200191%20de%2002%20de%20mar%C3%A7o%20de%202020.pdf)
