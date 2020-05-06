@@ -20,10 +20,11 @@ Veja que logo no segundo parágrafo o Ministério da Justiça informa que:
 Perceba que:
 
 - Solicitaram a opinião de várias instâncias: direção do campus (que emite parecer desfavorável), PROGEPE, procuradoria (que entende que o pedido é irrecusável e pede entende a retirada da DE), e outras tantas. Mas veja que o pedido é de **requisição**, onde não há necessidade de concordância. **Por que então fizeram isso?**;
-- Concluem que devo perder a minha dedicação exclusiva (veja página 15). Aqui comento de que nenhum dos demais colegas professores também foram requisitados e que atuamente trabalham comigo no Departamento de Estudos Econômicos perderam quaisquer vencimentos;
-- Não satisfeitos, e mesmo diante da confirmação da procuradoria de que o pedido é irrecusável (veja página 13) ao invés de emitirem a portaria, **enviam o processo para o MEC**. 
+- Concluem que devo perder a minha dedicação exclusiva (**veja página 15**). Aqui comento de que nenhum dos demais colegas professores também foram requisitados e que atuamente trabalham comigo no Departamento de Estudos Econômicos perderam quaisquer vencimentos;
+- Não satisfeitos, e mesmo diante da confirmação da procuradoria de que o pedido é irrecusável (**veja página 13**) ao invés de emitirem a portaria, **enviam o processo para o MEC**. 
+- **Por que cumprem da procuradoria a retirada da DE, mas não cumpriram a emissão da portaria visto que a requisição, reconhecidamente era irrecusável?**
+ - **Por que o cumprimeto seletivo?**
 - **Por que enviaram o processo para o MEC mesmo após o parecer da procuradoria?**
-- **Por que simplesmente não emitiram a portaria se já tinham o parecer da perda da dedicação exclusiva?**
 
 ## [23/12/2020 - MEC responde o óbvio e devolve processo para UFERSA](https://github.com/zegildo/processo_ufersa/blob/master/23-Dezembro-2019-MEC-responde/SEI_MEC%20-%201845999%20-%20Despacho%20(Requisi%C3%A7%C3%A3o%20Jos%C3%A9%20Gildo).pdf)
 
@@ -38,4 +39,8 @@ Perceba que:
 ## [27/01/2020 - CADE reitera pedido de Requisição](https://github.com/zegildo/processo_ufersa/blob/master/27-Janeiro-2020-CADE-reitera-pedido-de-Requisi%C3%A7%C3%A3o/SEI_CADE%20-%200710993%20-%20Jose%20Gildo.pdf)
 - Perceba que desta vez, no parágrafo 9 o CADE ressalta que *"a omissão ou descumprimento do Decreto 9.144/2017 acarretará na adoção por este Conselho das ações cabíveis"*
 
-- **Por que nos expor a este ridículo? Eu sou o funcionário cujo o órgão de origem é problemático, não entende o pedido de requisição e cria dificuldades desnecessárias para a administração.**
+- **Por que nos expor a este ridículo? Qual a necessidade disso? Eu sou o funcionário cujo o órgão de origem é problemático, não entende o pedido de requisição e cria dificuldades desnecessárias para a administração.**
+
+## [10/10/2020 - UFERSA culpa o MEC pela não emissão da portaria](https://github.com/zegildo/processo_ufersa/blob/master/10-Fevereiro-UFERSA-culpa-o-MEC/Oficio%20n%C2%BA%2035-2020%20(Requisi%C3%A7%C3%A3o%20Jos%C3%A9%20Gildo).pdf)
+
+# [10/10/2020 - UFERSA FINALMENTE RECONHECE O PEDIDO DE REQUISIÇÃO](https://github.com/zegildo/processo_ufersa/blob/master/10-Fevereiro-UFERSA-reconhece-que-o-pedido-%C3%A9-uma-Requisi%C3%A7%C3%A3o/Of%C3%ADcio%20n.%C2%BA%20050-2020-GR-UFERSA.pdf)
