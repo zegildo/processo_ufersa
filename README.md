@@ -19,8 +19,8 @@ Veja que logo no segundo parágrafo o Ministério da Justiça informa que:
 
 Perceba que:
 
-- Solicitaram a opinião de várias instâncias: direção do campus (que emite parecer desfavorável), PROGEPE, procuradoria (que entende que o pedido é irrecusável e pede entende a retirada da DE), e outras tantas. Mas veja que o pedido é de **requisição**, onde não há necessidade de concordância. **Por que então fizeram isso?**;
-- Concluem que devo perder a minha dedicação exclusiva (**veja página 15**). Aqui comento de que nenhum dos demais colegas professores também foram requisitados e que atuamente trabalham comigo no Departamento de Estudos Econômicos perderam quaisquer vencimentos;
+- Solicitaram a opinião de várias instâncias: direção do campus (que emite parecer desfavorável), PROGEPE, procuradoria (que entende que o pedido é irrecusável e pede a retirada da DE), e outras tantas. Mas veja que o pedido é de **requisição**, onde não há necessidade de concordância. **Por que então fizeram isso?**;
+- Concluem que devo perder a minha dedicação exclusiva (**veja página 15**). Comento de que nenhum dos demais colegas professores também requisitados e que atuamente trabalham comigo no Departamento de Estudos Econômicos perderam quaisquer vencimentos e todos somos professores federais do magistério superior;
 - Não satisfeitos, e mesmo diante da confirmação da procuradoria de que o pedido é irrecusável (**veja página 13**) ao invés de emitirem a portaria, **enviam o processo para o MEC**. 
 - **Por que cumprem da procuradoria a retirada da DE, mas não cumpriram a emissão da portaria visto que a requisição, reconhecidamente era irrecusável?**
  - **Por que o cumprimeto seletivo?**
