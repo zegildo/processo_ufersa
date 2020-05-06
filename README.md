@@ -31,8 +31,8 @@ Perceba que:
 
 - Perceba que meu nome está errado;
 - Perceba que a UFERSA solicita reconsideração da requisição ao CADE.
-
 - **Qual a necessidade em se fazer isso?**
+- **Será que uma autarquia do Ministério da Justiça após realização de processo seletivo, aguardar pacientemente todos os meses de arrasto do processo não estaria convicta da requisição?**
 
 
 
