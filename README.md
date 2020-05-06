@@ -39,7 +39,7 @@ Perceba que:
 ## [27/01/2020 - CADE reitera pedido de Requisição](https://github.com/zegildo/processo_ufersa/blob/master/27-Janeiro-2020-CADE-reitera-pedido-de-Requisi%C3%A7%C3%A3o/SEI_CADE%20-%200710993%20-%20Jose%20Gildo.pdf)
 - Perceba que desta vez, no parágrafo 9 o CADE ressalta que *"a omissão ou descumprimento do Decreto 9.144/2017 acarretará na adoção por este Conselho das ações cabíveis"*
 
-- **Por que nos expor a este ridículo? Qual a necessidade disso? Eu sou o funcionário cujo o órgão de origem é problemático, não entende o pedido de requisição e cria dificuldades desnecessárias para a administração.**
+- **Por que nos expor a este ridículo? Qual a necessidade disso?**
 
 ## [10/02/2020 - UFERSA culpa o MEC pela não emissão da portaria](https://github.com/zegildo/processo_ufersa/blob/master/10-Fevereiro-UFERSA-culpa-o-MEC/Oficio%20n%C2%BA%2035-2020%20(Requisi%C3%A7%C3%A3o%20Jos%C3%A9%20Gildo).pdf)
 Perceba que a UFERSA responde ao presidente do CADE de forma cínica culpando o MEC.
