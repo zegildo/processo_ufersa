@@ -42,14 +42,21 @@ Perceba que:
 - **Por que nos expor a este ridículo? Qual a necessidade disso? Eu sou o funcionário cujo o órgão de origem é problemático, não entende o pedido de requisição e cria dificuldades desnecessárias para a administração.**
 
 ## [10/02/2020 - UFERSA culpa o MEC pela não emissão da portaria](https://github.com/zegildo/processo_ufersa/blob/master/10-Fevereiro-UFERSA-culpa-o-MEC/Oficio%20n%C2%BA%2035-2020%20(Requisi%C3%A7%C3%A3o%20Jos%C3%A9%20Gildo).pdf)
+Perceba que a UFERSA responde ao presidente do CADE de forma cínica culpando o MEC.
 
 ## [10/02/2020 - UFERSA se nega a emitir portaria e solicita que o MEC o faça](https://github.com/zegildo/processo_ufersa/blob/master/10-Fevereiro-UFERSA-solicita-portaria-MEC/Of%C3%ADcio%20n.%C2%BA%20050-2020-GR-UFERSA.pdf)
+Perceba que covardemente a 
 
 Perceba que a universidade envia novamente o processo para o MEC.
 - **Por quê?**
 
 ## [19/02/2020 - MEC percebe a má vontade da UFERSA](https://github.com/zegildo/processo_ufersa/blob/master/10-Fevereiro-UFERSA-reconhece-que-o-pedido-%C3%A9-uma-Requisi%C3%A7%C3%A3o/Of%C3%ADcio%20n.%C2%BA%20050-2020-GR-UFERSA.pdf)
-Perceba que o MEC diz explicitamente: **NÃO HAVIA NECESSIDADE!**
+Perceba que o MEC percebe a má vontade da UFERSA e diz explicitamente: **NÃO HAVIA NECESSIDADE DO PROCESSO SER REENVIADO PARA LÁ UMA VEZ QUE JÁ ERA DE CONHECIMENTO DE TODOS O QUE DEVERIA SER FEITO!**
+
+## [04/03/2020 - UFERSA EMITE PORTARIA](https://github.com/zegildo/processo_ufersa/blob/master/4-Mar%C3%A7o-2020-UFERSA-emite-portaria/Portaria%20n%C2%BA%200191%20de%2002%20de%20mar%C3%A7o%20de%202020.pdf)
+
+Perceba que a portaria foi emitida de modo a perder a sua validade em 30 dias. Ou seja, em caso de eu não entrar em exercício eu continuaria sendo funcionário da UFERSA SEM NENHUMA ALTERAÇÃO DA MINHA SITUAÇÃO LABORAL.
+
 
 
 
